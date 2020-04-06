@@ -39,7 +39,7 @@
 		<cst.spring.security.version>4.0.4.RELEASE</cst.spring.security.version>
 		<cst.mysql.connector.version>5.1.30</cst.mysql.connector.version>
 		<cst.spring.data.commens>1.5.3.RELEASE</cst.spring.data.commens>
-		<cst.spring.data.jpa>1.3.0.RELEASE</cst.spring.data.jpa>
+		<cst.spring.data.jpa>1.11.23.RELEASE</cst.spring.data.jpa>
 		<cst.log4j>1.2.17</cst.log4j>
 	</properties>
 
