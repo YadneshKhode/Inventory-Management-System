@@ -34,7 +34,7 @@
 		<cst.hamcrest.version>1.3</cst.hamcrest.version>
 		<cst.byte.buddy.version>1.7.5</cst.byte.buddy.version>
 		
-		<cst.jackson.api>2.7.3</cst.jackson.api>
+		<cst.jackson.api>2.11.0</cst.jackson.api>
 		<cst.classmate.api>1.0.0</cst.classmate.api>
 		<cst.spring.security.version>4.0.4.RELEASE</cst.spring.security.version>
 		<cst.mysql.connector.version>5.1.30</cst.mysql.connector.version>
