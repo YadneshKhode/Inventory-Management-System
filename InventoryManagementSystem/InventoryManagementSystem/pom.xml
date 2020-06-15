@@ -23,7 +23,7 @@
 		<cst.hibernate.version>4.3.11.Final</cst.hibernate.version>
 		<cst.spring.version>4.2.4.RELEASE</cst.spring.version>
 		<cst.bean.validation.api>1.1.0.Final</cst.bean.validation.api>
-		<cst.hibernate.validator>5.1.2.Final</cst.hibernate.validator>
+		<cst.hibernate.validator>5.3.5.Final</cst.hibernate.validator>
 		<cst.junit.version>4.12</cst.junit.version>
 		<cst.jsp.version>2.3.1</cst.jsp.version>
 		<cst.jstl.version>1.2</cst.jstl.version>
