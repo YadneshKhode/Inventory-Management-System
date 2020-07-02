@@ -37,7 +37,7 @@
 		<cst.jackson.api>2.7.3</cst.jackson.api>
 		<cst.classmate.api>1.0.0</cst.classmate.api>
 		<cst.spring.security.version>4.0.4.RELEASE</cst.spring.security.version>
-		<cst.mysql.connector.version>5.1.30</cst.mysql.connector.version>
+		<cst.mysql.connector.version>8.0.16</cst.mysql.connector.version>
 		<cst.spring.data.commens>1.5.3.RELEASE</cst.spring.data.commens>
 		<cst.spring.data.jpa>1.3.0.RELEASE</cst.spring.data.jpa>
 		<cst.log4j>1.2.17</cst.log4j>
