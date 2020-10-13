@@ -24,7 +24,7 @@
 		<cst.spring.version>4.2.4.RELEASE</cst.spring.version>
 		<cst.bean.validation.api>1.1.0.Final</cst.bean.validation.api>
 		<cst.hibernate.validator>5.1.2.Final</cst.hibernate.validator>
-		<cst.junit.version>4.12</cst.junit.version>
+		<cst.junit.version>4.13.1</cst.junit.version>
 		<cst.jsp.version>2.3.1</cst.jsp.version>
 		<cst.jstl.version>1.2</cst.jstl.version>
 		<cst.servlet.version>3.1.0</cst.servlet.version>
@@ -126,7 +126,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>${cst.junit.version} </version>
+			<version>${cst.junit.version}</version>
 			<scope>test</scope>
 		</dependency>
 
