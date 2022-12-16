@@ -21,7 +21,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<cst.hibernate.version>4.3.11.Final</cst.hibernate.version>
-		<cst.spring.version>4.2.4.RELEASE</cst.spring.version>
+		<cst.spring.version>5.2.20.RELEASE</cst.spring.version>
 		<cst.bean.validation.api>1.1.0.Final</cst.bean.validation.api>
 		<cst.hibernate.validator>5.1.2.Final</cst.hibernate.validator>
 		<cst.junit.version>4.12</cst.junit.version>
